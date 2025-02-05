@@ -7,3 +7,4 @@
 - 📫 How to reach me: via my email: maxqqqq@hotmail.com 
 - 😄 Pronouns: Max, He
 - ⚡ Fun fact: I am able to learn git in 3 hours.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqiumax)](https://github.com/anuraghazra/github-readme-stats)
